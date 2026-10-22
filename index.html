@@ -428,12 +428,8 @@ AgrestModulo().then(modulo => {
   };
   api.iniciar();
   M.FS.mkdir("/saida");
-  /* Abre já com um exemplo pronto, para mostrar o que o programa faz */
-  abrirTexto(new TextEncoder().encode(EXEMPLO), EXEMPLO_NOME);
-  $("c-resp").value = String(colunas.indexOf("Produtividade"));
-  $("c-a").value = String(colunas.indexOf("Cultivar"));
-  analisar();
-  $("titulo-res").textContent = "Resultados · exemplo do livro (Banzatto & Kronka, Ex. 3.2)";
+  /* Abre no "Sobre o AGREST", como o programa no Windows */
+  sobre();
 }).catch(err => { $("saida").textContent = "Não foi possível carregar o AGREST neste navegador.\n\n" + err; });
 </script>
 
