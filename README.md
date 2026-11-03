@@ -10,7 +10,7 @@ O AGREST faz análise de variância (ANOVA) e testes de comparação de médias 
 
 ## O que ele faz
 
-- **Delineamentos:** inteiramente casualizado (DIC), blocos casualizados (DBC), fatorial em DIC e em DBC, parcelas subdivididas em DIC e em DBC
+- **Delineamentos:** inteiramente casualizado (DIC), blocos casualizados (DBC), fatorial com dois e com três fatores (em DIC e em DBC), parcelas subdivididas em DIC e em DBC
 - **Testes de médias:** Tukey, Duncan e Scott-Knott, a 10%, 5% ou 1%
 - **Pressupostos:** normalidade dos resíduos (Shapiro-Wilk) e homogeneidade das variâncias (Bartlett e Levene)
 - **Transformações:** logarítmica, raiz quadrada e angular (arco-seno), com a opção + 0,5
@@ -34,18 +34,18 @@ Os cálculos foram conferidos com o R e com os exemplos dos livros de Banzatto &
 ## Autores
 
 - Alysson Lívio Vasconcelos Guedes
-- Borko Stosic
-- José Domingos Albuquerque Aguiar
 - Guilherme Pereira Evangelista Alves
+
+Titular dos direitos: Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano (IF Sertão-PE)
 
 Contato: alyssonx@gmail.com
 
 ## Como citar
 
-GUEDES, A. L. V.; STOSIC, B.; AGUIAR, J. D. A.; ALVES, G. P. E. **AGREST: Estatística Experimental para Ciências Agrárias.** Versão 1.1.1. 2026. Disponível em: https://alyssonx.github.io/AGREST/
+GUEDES, A. L. V.; ALVES, G. P. E. **AGREST: Estatística Experimental para Ciências Agrárias.** Versão 1.2. Petrolina: IF Sertão-PE, 2026. Disponível em: https://alyssonx.github.io/AGREST/
 
 ## Licença
 
 Uso gratuito para fins acadêmicos, científicos e pessoais. É proibido modificar ou redistribuir. Veja os termos completos em [LICENSE](LICENSE).
 
-© 2026 Os autores. Todos os direitos reservados.
+© 2026 Instituto Federal do Sertão Pernambucano (IF Sertão-PE). Todos os direitos reservados.
