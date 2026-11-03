@@ -6,6 +6,10 @@ O AGREST faz análise de variância (ANOVA) e testes de comparação de médias 
 
 ### ▶ [Abrir o AGREST](https://alyssonx.github.io/AGREST/)
 
+### ⬇ [Baixar o AGREST para Windows (AGREST.exe)](https://github.com/Alyssonx/AGREST/releases/latest)
+
+Não precisa instalar: é só baixar e abrir o AGREST.exe. Na primeira vez, o Windows pode mostrar um aviso de "aplicativo não reconhecido"; clique em **Mais informações → Executar assim mesmo**.
+
 ![Tela do AGREST com a análise de um fatorial 3x3 em blocos](captura.png)
 
 ## O que ele faz
