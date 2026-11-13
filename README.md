@@ -29,7 +29,9 @@ Não precisa instalar: é só baixar e abrir o AGREST.exe. Na primeira vez, o Wi
 3. Dê um duplo clique nas colunas para preencher as caixas: variável resposta, tratamentos (ou fatores) e blocos.
 4. Escolha o teste de médias e clique em **Análise**.
 
-📺 Vídeo tutorial: https://youtu.be/BLtjQa6Yqto
+### 📺 [Vídeo: apresentação e primeiro uso do AGREST](https://youtu.be/Hfq0kHMlplo)
+
+[![Vídeo de apresentação e primeiro uso do AGREST](https://img.youtube.com/vi/Hfq0kHMlplo/hqdefault.jpg)](https://youtu.be/Hfq0kHMlplo)
 
 ## Validação
 
